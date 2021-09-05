@@ -1,0 +1,25 @@
+{
+  "name": "rebuild-rxjs",
+  "version": "1.0.0",
+  "description": "Learn rxjs by building it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remshams/rebuild-rxjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remshams/rebuild-rxjs/issues"
+  },
+  "homepage": "https://github.com/remshams/rebuild-rxjs#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "jest-summarizing-reporter": "^1.1.4",
+    "ts-jest": "^27.0.5"
+  }
+}
